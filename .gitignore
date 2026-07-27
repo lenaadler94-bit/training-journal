@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Временные файлы
+tmp/
+*.tmp
+*.bak
+*~
+
+# Системное
+Thumbs.db
+.DS_Store
